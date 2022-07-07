@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-#html,cssand javascript assignmnets
-<<<<<<< HEAD
+html,cssand javascript assignmnets
 
 Assignment
-=======
-----------------------------------
->>>>>>> css-assignments
-||||||| aca33ab
-html,cssand javascript assignmnets
-----------------------------------
-=======
-#html,cssand javascript assignmnets
-----------------------------------
->>>>>>> css-assignments
+
