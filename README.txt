@@ -1,3 +1,7 @@
 #html,cssand javascript assignmnets
+<<<<<<< HEAD
 
-Assignments
+Assignment
+=======
+----------------------------------
+>>>>>>> css-assignments
